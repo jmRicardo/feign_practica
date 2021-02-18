@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.jmr.practica.feign_practica</groupId>
-    <artifactId>feign-practica</artifactId>
+    <artifactId>feign_practica</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>feign-practica</name>
+    <name>feign_practica</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>15</java.version>
